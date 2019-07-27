@@ -1,5 +1,5 @@
 body{
-    background: url("/assets/field_background.jpg");
+    background: url("assets/field_background.jpg");
 }
 h1{
     background-color: rgb(101, 108, 201);
@@ -24,7 +24,7 @@ button{
     width: auto;
 }
 .adopt img:hover{
-    content: url("/assets/no_smile.JPG");
+    content: url("assets/no_smile.JPG");
     height: 20em;
     width: auto;
 }
@@ -33,7 +33,7 @@ button{
     width: auto;
 }
 .foster img:hover{
-    content: url("/assets/ho_smile.jpg");
+    content: url("assets/ho_smile.jpg");
     height: 20em;
     width: auto;
 }
@@ -42,7 +42,7 @@ button{
     width: auto;
 }
 .donate img:hover{
-    content: url("/assets/cr_smile.jpg");
+    content: url("assets/cr_smile.jpg");
     height: 20em;
     width: auto;
 }
@@ -53,7 +53,7 @@ button{
 .volunteer img:hover{
     height: 20em;
     width: auto;
-    content: url("/assets/lu_smile.jpg");
+    content: url("assets/lu_smile.jpg");
 }
 .right_col{
     background: rgb(101, 108, 201);
