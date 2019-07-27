@@ -24,7 +24,7 @@ button{
     width: auto;
 }
 .adopt img:hover{
-    content: url("assets/no_smile.JPG");
+    content: url("assets/no_smile.jpg");
     height: 20em;
     width: auto;
 }
